@@ -20,21 +20,18 @@ $ pkg update && apt upgrade
 $ pkg install python git 
 $ pip install requests mechanize
 $ pip install bs4 future
-$ rm -fr cracking4
-$ git clone https://github.com/Al-Vino/cracking4
+$ rm -fr crack
+$ git clone https://github.com/alpin1234567/crack/)
 $ ls (L kecil)
-$ cd cracking4
-$ python crack-4.py
+$ cd crack
+$ python krek.py
 ```
 # Cara Update
 ```bash
 $ cd
-$ cd cracking4
+$ cd crack
 $ git pull
-$ python crack-4.py
+$ python krek.py
 ```
-## MY SOCIAL MEDIA
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Al-Vino) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/AdjAlvino)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/legend.alvino)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/mhff_xy) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283114500777?text=Asalamualaikum+kak+Vino+ganteng)
-## KASIH BINTANG WOY🌟🌟🌟🌟🌟🌟🌟
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
+
+g....!+)
