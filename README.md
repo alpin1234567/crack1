@@ -9,9 +9,9 @@ Happy Ending muweheeh😅
 🌟 LOGO
 ![deskripsi gambar](https://i.ibb.co/SvHV2T9/Screenshot-2022-04-25-04-26-33-668-com-termux.png)
 🌟 RESULTS
-![deskripsi gambar](https://i.ibb.co/QpTByH1/Screenshot-2022-04-25-02-37-04-384-com-termux.png)
+![deskripsi gambar]([(https://i.ibb.co/44qmvmC/1654327824132-2.jpg)])
 🐷 Gambar Hanya Pemanis, Selebihnya Cobain Sendiri Ngab🐷
-## Instalation
+## Instala
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
 ```php
